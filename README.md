@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0735-asteroid-collision) |
 | [3731-find-missing-elements](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3731-find-missing-elements) |
+| [2104-sum-of-subarray-ranges](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/2104-sum-of-subarray-ranges) |
 ## Stack
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0735-asteroid-collision) |
+| [2104-sum-of-subarray-ranges](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
@@ -22,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3731-find-missing-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
