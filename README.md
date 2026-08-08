@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0735-asteroid-collision) |
 | [2104-sum-of-subarray-ranges](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/2104-sum-of-subarray-ranges) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0144-binary-tree-preorder-traversal) |
 ## Simulation
 |  |
 | ------- |
@@ -28,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/2104-sum-of-subarray-ranges) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
