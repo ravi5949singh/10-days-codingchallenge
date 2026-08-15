@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/2104-sum-of-subarray-ranges) |
 | [0063-unique-paths-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0120-triangle) |
 ## Stack
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0120-triangle) |
 ## Combinatorics
 |  |
 | ------- |
