@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0257-binary-tree-paths) |
 | [1143-longest-common-subsequence](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1143-longest-common-subsequence) |
+| [0072-edit-distance](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0072-edit-distance) |
 ## Backtracking
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0120-triangle) |
 | [0931-minimum-falling-path-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1143-longest-common-subsequence) |
+| [0072-edit-distance](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0072-edit-distance) |
 ## Combinatorics
 |  |
 | ------- |
