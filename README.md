@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0120-triangle) |
+| [0931-minimum-falling-path-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0931-minimum-falling-path-sum) |
 ## Stack
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0120-triangle) |
+| [0931-minimum-falling-path-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0931-minimum-falling-path-sum) |
 ## Combinatorics
 |  |
 | ------- |
@@ -135,4 +137,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0064-minimum-path-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0931-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
