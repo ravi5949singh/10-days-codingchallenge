@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0257-binary-tree-paths) |
+| [1143-longest-common-subsequence](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0120-triangle) |
 | [0931-minimum-falling-path-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1143-longest-common-subsequence) |
 ## Combinatorics
 |  |
 | ------- |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0931-minimum-falling-path-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
