@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0541-reverse-string-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0541-reverse-string-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0541-reverse-string-ii) |
+| [0680-valid-palindrome-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0680-valid-palindrome-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0438-find-all-anagrams-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
