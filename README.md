@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0516-longest-palindromic-subsequence) |
 | [0115-distinct-subsequences](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0115-distinct-subsequences) |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 ## Combinatorics
 |  |
 | ------- |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Memoization
+|  |
+| ------- |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 <!---LeetCode Topics End-->
