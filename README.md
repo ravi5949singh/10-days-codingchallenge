@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1971-find-if-path-exists-in-graph) |
 | [0733-flood-fill](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0733-flood-fill) |
+| [0547-number-of-provinces](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1971-find-if-path-exists-in-graph) |
 | [0733-flood-fill](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0733-flood-fill) |
+| [0547-number-of-provinces](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0547-number-of-provinces) |
 ## String
 |  |
 | ------- |
@@ -216,8 +218,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1971-find-if-path-exists-in-graph) |
+| [0547-number-of-provinces](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1971-find-if-path-exists-in-graph) |
+| [0547-number-of-provinces](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
