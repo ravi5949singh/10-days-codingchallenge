@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0066-plus-one) |
 | [0048-rotate-image](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0048-rotate-image) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0238-product-of-array-except-self) |
 ## Stack
 |  |
 | ------- |
@@ -247,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0215-kth-largest-element-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
