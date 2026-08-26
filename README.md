@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0733-flood-fill) |
 | [0463-island-perimeter](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0463-island-perimeter) |
 | [0066-plus-one](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0066-plus-one) |
+| [0048-rotate-image](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0048-rotate-image) |
 ## Stack
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0066-plus-one) |
+| [0048-rotate-image](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0048-rotate-image) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0931-minimum-falling-path-sum) |
 | [0733-flood-fill](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0733-flood-fill) |
 | [0463-island-perimeter](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0463-island-perimeter) |
+| [0048-rotate-image](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0048-rotate-image) |
 ## Longest Common Subsequence
 |  |
 | ------- |
