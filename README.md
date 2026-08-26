@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0048-rotate-image) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0238-product-of-array-except-self) |
+| [0152-maximum-product-subarray](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0516-longest-palindromic-subsequence) |
 | [0115-distinct-subsequences](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0115-distinct-subsequences) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
+| [0152-maximum-product-subarray](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0152-maximum-product-subarray) |
 ## Combinatorics
 |  |
 | ------- |
