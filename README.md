@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Math
 |  |
 | ------- |
