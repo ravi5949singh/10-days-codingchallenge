@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0912-sort-an-array](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0912-sort-an-array) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Stack
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Sorting
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0066-plus-one) |
 | [0048-rotate-image](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0048-rotate-image) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0451-sort-characters-by-frequency) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Sliding Window
 |  |
 | ------- |
@@ -277,4 +281,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0912-sort-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
