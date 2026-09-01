@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0912-sort-an-array](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0997-find-the-town-judge](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0997-find-the-town-judge) |
 ## Stack
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0997-find-the-town-judge](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0997-find-the-town-judge) |
 ## Sorting
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1971-find-if-path-exists-in-graph) |
 | [0547-number-of-provinces](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0997-find-the-town-judge) |
 ## Divide and Conquer
 |  |
 | ------- |
