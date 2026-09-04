@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [0096-unique-binary-search-trees](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0096-unique-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [0096-unique-binary-search-trees](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0096-unique-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0066-plus-one) |
 | [0048-rotate-image](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0048-rotate-image) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0096-unique-binary-search-trees](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0096-unique-binary-search-trees) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0115-distinct-subsequences) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [0152-maximum-product-subarray](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0152-maximum-product-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0096-unique-binary-search-trees) |
 ## Combinatorics
 |  |
 | ------- |
@@ -301,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0191-number-of-1-bits) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
