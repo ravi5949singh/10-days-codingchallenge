@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0912-sort-an-array) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0680-valid-palindrome-ii) |
 | [0097-interleaving-string](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0097-interleaving-string) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Backtracking
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0541-reverse-string-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0680-valid-palindrome-ii) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
