@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0997-find-the-town-judge](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0997-find-the-town-judge) |
+| [0202-happy-number](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0048-rotate-image) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0096-unique-binary-search-trees](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0096-unique-binary-search-trees) |
+| [0202-happy-number](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0680-valid-palindrome-ii) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3992-rearrange-string-to-avoid-character-pair) |
+| [0202-happy-number](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0202-happy-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -314,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0096-unique-binary-search-trees) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
