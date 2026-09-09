@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0997-find-the-town-judge](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0997-find-the-town-judge) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Stack
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0912-sort-an-array) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3992-rearrange-string-to-avoid-character-pair) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0680-valid-palindrome-ii) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Binary Lifting
 |  |
 | ------- |
