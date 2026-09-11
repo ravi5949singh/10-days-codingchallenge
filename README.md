@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1002-find-common-characters](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1002-find-common-characters) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Stack
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0680-valid-palindrome-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Binary Lifting
 |  |
 | ------- |
