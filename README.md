@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1002-find-common-characters](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1002-find-common-characters) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0202-happy-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1002-find-common-characters](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1002-find-common-characters) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -334,4 +336,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0202-happy-number) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
