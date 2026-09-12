@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1002-find-common-characters) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3483-unique-3-digit-even-numbers) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Simulation
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/2104-sum-of-subarray-ranges) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [0096-unique-binary-search-trees](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [0096-unique-binary-search-trees](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -332,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0096-unique-binary-search-trees) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
