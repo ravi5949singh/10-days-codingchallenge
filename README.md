@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Stack
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1002-find-common-characters](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1002-find-common-characters) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3483-unique-3-digit-even-numbers) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Sorting
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Sliding Window
 |  |
 | ------- |
