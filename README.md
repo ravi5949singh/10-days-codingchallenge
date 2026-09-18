@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 | [1002-find-common-characters](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1002-find-common-characters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Backtracking
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0202-happy-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3783-mirror-distance-of-an-integer) |
 | [0836-rectangle-overlap](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0836-rectangle-overlap) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Dynamic Programming
 |  |
 | ------- |
