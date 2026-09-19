@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 ## Stack
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0097-interleaving-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 ## Combinatorics
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0733-flood-fill) |
 | [0463-island-perimeter](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0463-island-perimeter) |
 | [0048-rotate-image](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0048-rotate-image) |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 ## Merge Sort
 |  |
 | ------- |
