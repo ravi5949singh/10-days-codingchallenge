@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
+| [0016-3sum-closest](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0016-3sum-closest) |
 ## Stack
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0912-sort-an-array) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [0016-3sum-closest](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0016-3sum-closest) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 | [0202-happy-number](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0202-happy-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [0016-3sum-closest](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0016-3sum-closest) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
