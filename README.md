@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Math
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0202-happy-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [0016-3sum-closest](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0016-3sum-closest) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
