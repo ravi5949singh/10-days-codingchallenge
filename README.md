@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 | [0016-3sum-closest](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0016-3sum-closest) |
+| [0011-container-with-most-water](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0011-container-with-most-water) |
 ## Stack
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0142-linked-list-cycle-ii) |
+| [0011-container-with-most-water](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0011-container-with-most-water) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [0011-container-with-most-water](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0011-container-with-most-water) |
 ## Binary Lifting
 |  |
 | ------- |
