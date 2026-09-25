@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [0143-reorder-list](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0143-reorder-list) |
 ## Simulation
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0011-container-with-most-water](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0011-container-with-most-water) |
+| [0143-reorder-list](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0143-reorder-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3483-unique-3-digit-even-numbers) |
+| [0143-reorder-list](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0143-reorder-list) |
 ## Enumeration
 |  |
 | ------- |
