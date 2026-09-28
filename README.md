@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
 | [0016-3sum-closest](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0016-3sum-closest) |
 | [0011-container-with-most-water](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0011-container-with-most-water) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Stack
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0160-intersection-of-two-linked-lists) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1002-find-common-characters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Backtracking
 |  |
 | ------- |
