@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0011-container-with-most-water) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Stack
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [0016-3sum-closest](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0016-3sum-closest) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0165-compare-version-numbers) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [4016-maximum-area-of-two-non-overlapping-square-submatrices](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/4016-maximum-area-of-two-non-overlapping-square-submatrices) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Merge Sort
 |  |
 | ------- |
