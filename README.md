@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0905-sort-array-by-parity) |
 ## Stack
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [0016-3sum-closest](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0016-3sum-closest) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0905-sort-array-by-parity) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0165-compare-version-numbers) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0905-sort-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
