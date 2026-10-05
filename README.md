@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0922-sort-array-by-parity-ii) |
 ## Stack
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0016-3sum-closest) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0922-sort-array-by-parity-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0165-compare-version-numbers) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0922-sort-array-by-parity-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
