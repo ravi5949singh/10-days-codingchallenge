@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0922-sort-array-by-parity-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0821-shortest-distance-to-a-character) |
 ## Stack
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0165-compare-version-numbers](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0165-compare-version-numbers) |
+| [0821-shortest-distance-to-a-character](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0821-shortest-distance-to-a-character) |
 ## Backtracking
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0922-sort-array-by-parity-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0821-shortest-distance-to-a-character) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
