@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0165-compare-version-numbers](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0165-compare-version-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0821-shortest-distance-to-a-character) |
+| [0925-long-pressed-name](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0925-long-pressed-name) |
 ## Backtracking
 |  |
 | ------- |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0922-sort-array-by-parity-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0821-shortest-distance-to-a-character) |
+| [0925-long-pressed-name](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0925-long-pressed-name) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
