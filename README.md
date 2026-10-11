@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0165-compare-version-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0821-shortest-distance-to-a-character) |
 | [0925-long-pressed-name](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0925-long-pressed-name) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
 | ------- |
