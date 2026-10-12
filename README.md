@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0203-remove-linked-list-elements) |
 ## Math
 |  |
 | ------- |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [0143-reorder-list](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0203-remove-linked-list-elements) |
 ## Enumeration
 |  |
 | ------- |
