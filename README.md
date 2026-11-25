@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [0143-reorder-list](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0143-reorder-list) |
 | [1021-remove-outermost-parentheses](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0925-long-pressed-name) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [1021-remove-outermost-parentheses](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -438,4 +440,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
