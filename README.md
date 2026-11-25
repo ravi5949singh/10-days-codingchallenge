@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [0143-reorder-list](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0143-reorder-list) |
+| [1021-remove-outermost-parentheses](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0821-shortest-distance-to-a-character) |
 | [0925-long-pressed-name](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0925-long-pressed-name) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [1021-remove-outermost-parentheses](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -432,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
