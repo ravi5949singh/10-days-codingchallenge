@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [1021-remove-outermost-parentheses](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Backtracking
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ravi5949singh/10-days-codingchallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sliding Window
 |  |
 | ------- |
